@@ -1,1 +1,1 @@
-web: gunicorn djangoResume.wsgi --log-file -
+web: gunicorn djangoResume.wsgi
